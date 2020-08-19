@@ -7,3 +7,6 @@ abc='tdgavnx'
 name = "唐东"
 print(len(abc))
 print(len(name.encode('utf-8')))
+
+git = "python"
+print(git)
