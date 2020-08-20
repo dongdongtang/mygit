@@ -10,3 +10,6 @@ print(len(name.encode('utf-8')))
 
 git = "python"
 print(git)
+
+def hello():
+	print("test")
