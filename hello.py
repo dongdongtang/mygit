@@ -15,3 +15,4 @@ def hello():
 	print("test")
 
 print("test")
+print("python")
