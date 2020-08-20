@@ -13,3 +13,5 @@ print(git)
 
 def hello():
 	print("test")
+
+print("test")
